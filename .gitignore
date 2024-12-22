@@ -1,0 +1,7 @@
+*/
+*.csv
+*.docx
+config.ini
+cookies.json
+test_blockchain_address_finder.py
+test_db_add.py
